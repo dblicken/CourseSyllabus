@@ -8,11 +8,11 @@ This is the course resource site for PR Publications, a course at the University
 
 **Instructor**
 
-Adam Croom<br>
-**Location**: Old Science Hall, Room 224<br>
-**Phone**: (405) 325-2960<br>
-**E-mail**: a.croom (d0t) ou.edu<br>
-**Twitter**: <a href="http://twitter.com/acroom" target="blank">@acroom</a><br>
+Dan Blickensderfer<br>
+**Location**: Maine and New Hampshire<br>
+**Phone**: <br>
+**E-mail**: dblicken .edu<br>
+**Twitter**: <a href="http://twitter.com/dan_blick" target="blank">@dan_blick</a><br>
 **Office hours**: Please email me if you would like to meet either face-to-face or online!
 
 ## Syllabus
