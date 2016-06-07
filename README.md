@@ -4,7 +4,7 @@ permalink: /
 ---
 
 # PR Pubs :: Summer 2016
-This is the course resource site for <Test>, a course at the University of <>, taught in the <> department.
+This is the course resource site for [Test], a course at the University of <>, taught in the <> department.
 
 **Instructor**
 
